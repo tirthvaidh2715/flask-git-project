@@ -1,14 +1,11 @@
 [
-  {
-    "name": "Main Branch Data",
-    "course": "GitHub"
-  },
-  {
-    "name": "Rahul Sharma",
-    "course": "Python"
-  },
-  {
-    "name": "Amit",
-    "course": "Flask"
-  }
+{   "name": "Tirth Conflict",
+     "course": "Git" 
+},
+    { "name": "Rahul Sharma", 
+    "course": "Python" 
+}, 
+    { "name": "Amit",
+     "course": "Flask" 
+} 
 ]
