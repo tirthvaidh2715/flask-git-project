@@ -1,10 +1,14 @@
 [
-    {
-        "name": "Tirth",
-        "course": "DevOps"
-    },
-    {
-        "name": "Rahul",
-        "course": "Python"
-    }
+  {
+    "name": "Tirth Vaidh",
+    "course": "DevOps"
+  },
+  {
+    "name": "Rahul Sharma",
+    "course": "Python"
+  },
+  {
+    "name": "Amit",
+    "course": "Flask"
+  }
 ]
